@@ -1,0 +1,24 @@
+ODI Cricket Analytics — India vs Australia (Power BI)
+
+Interactive Power BI report built on ODI matches between India and Australia (ESPN Cricinfo Statsguru). The report has three pages—Batting, Bowling, and Fielding—with player and time filters, clean KPIs, and quick comparisons. All data shaping was done in Power BI (Power Query + DAX).
+
+Highlights
+
+3 focused pages Batting, Bowling, Fielding
+
+Fast filters Player, YearPeriod, Venue, Result, Opposition (fixed to Ind vs Aus by source)
+
+Clean layout KPIs up top, details in the main canvas, consistent colortheme
+
+No code dependencies 100% Power BI Desktop
+
+Key Metrics
+
+Batting
+Matches, Innings, Runs, Balls Faced, Average, Strike Rate, Highest Score, 50s100s, 4s6s, Ducks, Not Outs, Playing Period.
+
+Bowling
+Matches, Innings, Overs, Maidens, Runs Conceded, Wickets, Economy, Average, Strike Rate, Best Bowling, Playing Period.
+
+Fielding
+Matches, Innings, Catches (as fielder), Catches (as keeper), Stumpings, Run-outs, Dismissals per Innings, Playing Period.
